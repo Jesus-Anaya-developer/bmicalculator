@@ -15,3 +15,23 @@ body {
 .row {
   margin-top: 20px;
 }
+
+.btn-color {
+  background-color: #FF3366;
+  border-color: #FF3366;
+  border-radius: 25px;
+  width: 100%;
+}
+
+.btn-color:hover {
+  background-color: #FF3366;
+  border-color: #FF3366;
+}
+
+.contenedor {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100%;
+}
